@@ -2,14 +2,14 @@
 
 ![](https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg)
 
-# Ant Chain DEMOSDK SDK for PHP
+# Ant Chain ABC SDK for PHP
 
 ## 安装
 
 ### Composer
 
 ```bash
-composer require antchain/demosdk
+composer require antchain/DEMOSDK
 ```
 
 ## 问题
